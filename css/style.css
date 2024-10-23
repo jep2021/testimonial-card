@@ -10,7 +10,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
-  background: linear-gradient(to bottom, white, #777);
+  background: linear-gradient(to bottom, #F9FAFB, #D2D6DB);
 }
 
 * {
@@ -37,7 +37,7 @@ body {
 }
 
 .card {
-  background-color: aliceblue;
+  background-color: white;
   display: flex;
   flex-direction: column;
   border-radius: 5px;
@@ -86,7 +86,7 @@ body {
 }
 
 .description {
-  font-weight: 500;
+  font-weight: 400;
   font-size: 16px;
   color: #777;
   text-align: left;
